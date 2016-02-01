@@ -1,0 +1,6 @@
+total 16
+-rwxrw-r-- 1 developer developer  26 Feb  1 10:28 allow_exec.sh
+-rwxrw-r-- 1 developer developer  30 Feb  1 10:18 hello_world.sh
+-rw-rw-r-- 1 developer developer   0 Feb  1 10:28 ls-l.txt
+-rw-rw-r-- 1 developer developer 109 Feb  1 10:20 tarballit.sh
+-rwxrw-r-- 1 developer developer  30 Feb  1 10:24 write_permissions_to_file.sh
